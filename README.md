@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SabaKhubashvili
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... React
-- 📫 How to reach me ... khubashvili.saba12@gmail.com
+- 📫 How to reach me ... Gmail: khubashvili.saba12@gmail.com 

@@ -1,6 +1,6 @@
 # 🧝‍♂️ Saba Khubashvili
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Craftsman (Developer/Designer)`**
 
 
 

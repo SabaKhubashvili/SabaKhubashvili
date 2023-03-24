@@ -26,20 +26,24 @@ Hello! My name is Saba Khubashvili, and I am a front-end developer with some exp
 ### 📊 Stats
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SabaKhubashvili&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)
-#
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabaKhubashvili&hide_progress=true&card_width=470px)
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
- Sure, here's an updated bio that includes your past experience:
+ 
+Greetings! My name is Saba Khubashvili, and I am a front-end developer with experience in both front-end and back-end development. My journey into the world of web development began three years ago when I enrolled in a web development program at Ug Limes. During this program, I gained a solid foundation in web development concepts and learned the basics of HTML, CSS, and JavaScript.
 
-Hello, I'm Saba Khubashvili, a front-end developer with experience in both front-end and back-end development. I started my journey two years ago when I enrolled in a web development program at Ug Limes. Since then, I have been continuously learning and honing my skills.
+Since then, I have been continuously learning and honing my skills, taking on various web development projects to gain practical experience. I have now progressed to the point where I'm creating personal websites and working as a freelancer.
 
-I have now progressed to the point where I'm creating personal websites and working as a freelancer. My passion for creating visually appealing and user-friendly interfaces, combined with my knowledge of HTML, CSS, and JavaScript, allows me to deliver high-quality work to my clients.
+I specialize in creating visually appealing and user-friendly interfaces, using my knowledge of React,Typescript,Tailwind to build responsive, interactive, and intuitive websites. I enjoy working on projects that challenge me and allow me to learn new technologies and techniques.
 
-I am always eager to learn and collaborate with others on challenging projects that help me grow as a developer. Thank you for visiting my GitHub portfolio, and please feel free to get in touch with me to discuss potential projects or collaborations.
+Apart from web development, I am also interested in UI/UX design and am always looking to improve my design skills. I believe that good design is essential to creating great user experiences and strive to incorporate best design practices in all of my projects.
 
+Thank you for taking the time to visit my GitHub portfolio. If you have any questions or would like to discuss potential projects or collaborations, please feel free to get in touch with me.
   
+ [Linkedin]: https://www.linkedin.com/in/საბა-ხუბაშვილი-b08910223/
   
+ 
+ Gmail: khubashvili.saba12@gmail.com
   
   

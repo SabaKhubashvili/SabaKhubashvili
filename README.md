@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=SabaKhubashvili)
 
-Hello! My name is Saba Khubashvili, and I am a front-end developer with some experience in back-end development as well. I have a passion for creating visually appealing and user-friendly interfaces that provide an excellent user experience. Although my past experience in development is relatively small, I am constantly working to improve my skills and learn new technologies to stay current in the industry. I'm excited to collaborate with others on projects that challenge me and help me grow as a developer.
+Hello! My name is Saba Khubashvili, a front-end developer who also has some background in back-end programming. I am passionate about designing user interfaces that are both aesthetically pleasing and intuitive to use. Despite having only a little amount of prior experience in development, I'm always trying to sharpen my abilities and keep up with new developments in the field. I'm eager to work with others on initiatives that push me and aid in my development as a developer.
 ---
 
 ### 🧰 Languages and Tools

@@ -31,15 +31,15 @@ Hello! My name is Saba Khubashvili, a front-end developer who also has some back
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
  
-Greetings! My name is Saba Khubashvili, and I am a front-end developer with experience in both front-end and back-end development. My journey into the world of web development began three years ago when I enrolled in a web development program at Ug Limes. During this program, I gained a solid foundation in web development concepts and learned the basics of HTML, CSS, and JavaScript.
+Greetings! I'm a front-end developer by the name of Saba Khubashvili, and I've worked on both front-end and back-end projects. Three years ago, I enrolled in a web development program at Ug Limes, which marked the beginning of my foray into the world of web development. I developed a strong foundation in web development principles and learnt the fundamentals of HTML, CSS, and JavaScript during this program.
 
-Since then, I have been continuously learning and honing my skills, taking on various web development projects to gain practical experience. I have now progressed to the point where I'm creating personal websites and working as a freelancer.
+Since then, I've been developing my knowledge and skills while working on a variety of web development projects to obtain real-world experience. Now that I've advanced, I'm building personal websites and working as a freelancer.
 
-I specialize in creating visually appealing and user-friendly interfaces, using my knowledge of React,Typescript,Tailwind to build responsive, interactive, and intuitive websites. I enjoy working on projects that challenge me and allow me to learn new technologies and techniques.
+Using my expertise in React, Typescript, and Tailwind, I design responsive, interactive, and intuitive websites with a focus on user-friendly interfaces. I like working on challenging projects that let me experiment with new tools and methods.
 
-Apart from web development, I am also interested in UI/UX design and am always looking to improve my design skills. I believe that good design is essential to creating great user experiences and strive to incorporate best design practices in all of my projects.
+In addition to web development, UI/UX design is another area of interest for me, and I'm always trying to get better at it. I work hard to apply the best design techniques in all of my projects because I think that excellent design is crucial to producing wonderful user experiences.
 
-Thank you for taking the time to visit my GitHub portfolio. If you have any questions or would like to discuss potential projects or collaborations, please feel free to get in touch with me.
+I'm grateful that you took the time to look over my GitHub portfolio. Please feel free to contact me if you have any inquiries or would want to talk about prospective projects or collaborations.
   
  [Linkedin]: https://www.linkedin.com/in/საბა-ხუბაშვილი-b08910223/
   

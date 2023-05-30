@@ -24,9 +24,9 @@ Hello! My name is Saba Khubashvili, a front-end developer who also has some back
 <br />
 
 ### 📊 Stats
-[![Saba's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabaKhubashvili&theme=2077)
+![Saba's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabaKhubashvili&theme=2077)
 
-[![Saba's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SabaKhubashvili&theme=2077)
+![Saba's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SabaKhubashvili&theme=2077)
 
 
 <details>

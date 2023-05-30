@@ -24,9 +24,7 @@ Hello! My name is Saba Khubashvili, a front-end developer who also has some back
 <br />
 
 ### 📊 Stats
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SabaKhubashvili&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabaKhubashvili&hide_progress=true&card_width=470px)
+![Saba's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabaKhubashvili&show_icons=true&theme=dark)
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>

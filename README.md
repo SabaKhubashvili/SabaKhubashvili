@@ -20,6 +20,7 @@ Hello! My name is Saba Khubashvili, a front-end developer who also has some back
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/laravel.svg" />
+<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.cdnlogo.com/logos/n/80/next-js.svg" />
 
 <br />
 

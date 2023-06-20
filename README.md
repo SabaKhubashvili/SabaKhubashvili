@@ -7,6 +7,9 @@
 Hello! My name is Saba Khubashvili, a front-end developer who also has some background in back-end programming. I am passionate about designing user interfaces that are both aesthetically pleasing and intuitive to use. Despite having only a little amount of prior experience in development, I'm always trying to sharpen my abilities and keep up with new developments in the field. I'm eager to work with others on initiatives that push me and aid in my development as a developer.
 ---
 
+<img  alt="HTML" 
+src="https://wallpaperaccess.com/full/5673721.jpg" />
+
 ### 🧰 Languages and Tools
 
 <img  alt="HTML" 

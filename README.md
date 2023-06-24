@@ -54,7 +54,7 @@ Greetings! I'm a front-end developer by the name of Saba Khubashvili, and I've w
 
 Since then, I've been developing my knowledge and skills while working on a variety of web development projects to obtain real-world experience. Now that I've advanced, I'm building personal websites and working as a freelancer.
 
-Using my expertise in React, Typescript, and Tailwind, I design responsive, interactive, and intuitive websites with a focus on user-friendly interfaces. I like working on challenging projects that let me experiment with new tools and methods.
+Using my expertise in React, Typescript, and Tailwind, I design responsive, interactive, and intuitive websites with a focus on user-friendly interfaces. I like working on challenging projects that let me experiment with new tools and methods
 
 In addition to web development, UI/UX design is another area of interest for me, and I'm always trying to get better at it. I work hard to apply the best design techniques in all of my projects because I think that excellent design is crucial to producing wonderful user experiences.
 

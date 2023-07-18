@@ -50,7 +50,7 @@ src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
  
-Greetings! I'm a front-end developer by the name of Saba Khubashvili, and I've worked on both front-end and back-end projects. Three years ago, I enrolled in a web development program at Ug Limes, which marked the beginning of my foray into the world of web development. I developed a strong foundation in web development principles and learnt the fundamentals of HTML, CSS, and JavaScript during this program.
+Greetings! I'm a front-end developer by the name of Saba Khubashvili, I've worked on both front-end and back-end projects. Three years ago, I enrolled in a web development program at Ug Limes, which marked the beginning of my foray into the world of web development. I developed a strong foundation in web development principles and learnt the fundamentals of HTML, CSS, and JavaScript during this program.
 
 Since then, I've been developing my knowledge and skills while working on a variety of web development projects to obtain real-world experience. Now that I've advanced, I'm building personal websites and working as a freelancer.
 

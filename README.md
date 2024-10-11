@@ -35,8 +35,6 @@ src="https://wallpaperaccess.com/full/5673721.jpg" />
 
 ![Saba's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabaKhubashvili&theme=2077)
 
-![Saba's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SabaKhubashvili&theme=2077)
-
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>

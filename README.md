@@ -32,10 +32,7 @@ src="https://wallpaperaccess.com/full/5673721.jpg" />
 <br/>
 
 ### 📊 Stats
-
-![Saba's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabaKhubashvili&theme=2077)
-
-[[![GitHub Streak](https://streak-stats.demolab.com/?user=SabaKhubashvili)](https://git.io/streak-stats)](https://camo.githubusercontent.com/550b51fe2b2253da0c4ab0e9ea8c11365eef46f67428677d7a23c8f4890a74da/68747470733a2f2f692e696d6775722e636f6d2f625572736a6c702e706e67)
+[[![GitHub Streak](https://streak-stats.demolab.com/?user=SabaKhubashvili&theme=dark)](https://git.io/streak-stats)]
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>

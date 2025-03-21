@@ -50,7 +50,7 @@ In addition to web development, UI/UX design is another area of interest for me,
 I'm grateful that you took the time to look over my GitHub portfolio. Please feel free to contact me if you have any inquiries or would want to talk about prospective projects or collaborations.
   
  [Linkedin]: https://www.linkedin.com/in/საბა-ხუბაშვილი-b08910223/
-  
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
  
  Gmail: khubashvili.saba12@gmail.com
   

@@ -35,6 +35,7 @@ src="https://wallpaperaccess.com/full/5673721.jpg" />
 
 ![Saba's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabaKhubashvili&theme=2077)
 
+[[![GitHub Streak](https://streak-stats.demolab.com/?user=SabaKhubashvili)](https://git.io/streak-stats)](https://camo.githubusercontent.com/550b51fe2b2253da0c4ab0e9ea8c11365eef46f67428677d7a23c8f4890a74da/68747470733a2f2f692e696d6775722e636f6d2f625572736a6c702e706e67)
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
@@ -50,7 +51,6 @@ In addition to web development, UI/UX design is another area of interest for me,
 I'm grateful that you took the time to look over my GitHub portfolio. Please feel free to contact me if you have any inquiries or would want to talk about prospective projects or collaborations.
   
  [Linkedin]: https://www.linkedin.com/in/საბა-ხუბაშვილი-b08910223/
- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
  
  Gmail: khubashvili.saba12@gmail.com
   

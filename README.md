@@ -32,7 +32,7 @@ src="https://wallpaperaccess.com/full/5673721.jpg" />
 <br/>
 
 ### 📊 Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SabaKhubashvili&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
@@ -47,7 +47,7 @@ In addition to web development, UI/UX design is another area of interest for me,
 
 I'm grateful that you took the time to look over my GitHub portfolio. Please feel free to contact me if you have any inquiries or would want to talk about prospective projects or collaborations.
   
- [Linkedin]: https://www.linkedin.com/in/საბა-ხუბაშვილი-b08910223/
+ [Linkedin]: https://www.linkedin.com/in/sabakhubashvili/
  
  Gmail: khubashvili.saba12@gmail.com
   

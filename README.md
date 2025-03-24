@@ -32,7 +32,7 @@ src="https://wallpaperaccess.com/full/5673721.jpg" />
 <br/>
 
 ### 📊 Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SabaKhubashvili&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
